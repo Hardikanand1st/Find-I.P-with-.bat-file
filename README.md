@@ -1,6 +1,6 @@
 [![stars](https://img.shields.io/github/stars/barbarbar338/readme-template?color=yellow&logo=github&style=for-the-badge)](https://github.com/barbarbar338/readme-template)
 [![license](https://img.shields.io/github/license/barbarbar338/readme-template?logo=github&style=for-the-badge)](https://github.com/barbarbar338/readme-template)
-[![supportServer](https://hardikanand1st.github.io/assets/telegram_logo_circle_icon_134012.png)](https://www.instagram.com/hardikanand1st)
+[![supportServer](hardikanand1st.github.io/assets/telegram_logo_circle_icon_134012(1).png)](https://www.instagram.com/hardikanand1st)
 [![forks](https://img.shields.io/github/forks/barbarbar338/readme-template?color=green&logo=github&style=for-the-badge)](https://github.com/barbarbar338/readme-template)
 [![issues](https://img.shields.io/github/issues/barbarbar338/readme-template?color=red&logo=github&style=for-the-badge)](https://github.com/barbarbar338/readme-template)
 
