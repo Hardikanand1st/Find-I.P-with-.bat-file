@@ -53,7 +53,7 @@ Give a ⭐️ if this project helped you!
 🖱 [Support](https://hardik.live/support)
 (by, clicking support button again and again)
 
-❤️ [Donate](https://hardik.live/support)
+❤️ [Donate](https://hardik.live/donate)
 
 # 📞 Contact
 
