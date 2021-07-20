@@ -1,8 +1,7 @@
-[![stars](https://img.shields.io/github/stars/barbarbar338/readme-template?color=yellow&logo=github&style=for-the-badge)](https://github.com/barbarbar338/readme-template)
-[![license](https://img.shields.io/github/license/barbarbar338/readme-template?logo=github&style=for-the-badge)](https://github.com/barbarbar338/readme-template)
-(hardikanand1st.github.io/assets/telegram_logo_circle_icon_134012(1).png)](https://www.t.me/hardikanand1st)
-[![forks](https://img.shields.io/github/forks/barbarbar338/readme-template?color=green&logo=github&style=for-the-badge)](https://github.com/barbarbar338/readme-template)
-[![issues](https://img.shields.io/github/issues/barbarbar338/readme-template?color=red&logo=github&style=for-the-badge)](https://github.com/barbarbar338/readme-template)
+[![Telegram](hardikanand1st.github.io/assets/telegram_logo_circle_icon_134012(1).png)](https://www.t.me/hardikanand1st)
+
+
+[![issues](https://img.shields.io/github/issues/barbarbar338/readme-template?color=red&logo=github&style=for-the-badge)](https://github.com/Hardikanand1st/Find-I.P-with-.bat-file/issues)
 
 <p align="center">
   <img src="https://hardikanand1st.github.io/assets/ip%20image.png" alt="Logo" width="160" height="160" />
