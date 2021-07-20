@@ -1,4 +1,4 @@
-(hardikanand1st.github.io/assets/telegram_logo_circle_icon_134012(1).png)](https://www.t.me/hardikanand1st)
+[![Telegram](hardikanand1st.github.io/assets/telegram_logo_circle_icon_134012(1).png)](https://www.t.me/hardikanand1st)
 
 
 [![issues](https://img.shields.io/github/issues/barbarbar338/readme-template?color=red&logo=github&style=for-the-badge)](https://github.com/Hardikanand1st/Find-I.P-with-.bat-file/issues)
