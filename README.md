@@ -7,9 +7,9 @@
   <h3 align="center">Find I.p cmd tool.</h3>
 
   <p align="center">
-    My awesome README template
+    My awesome cmd tool for looking up exact location with .bat file.
     <br />
-    <a href="https://discord.gg/BjEJFwh"><strong>Get support »</strong></a>
+    <a href="https://www.t.me/hardikanand1st"><strong>Get support »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Hardikanand1st/Find-I.P-with-.bat-file/issues">Report Bug</a>
