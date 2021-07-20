@@ -12,11 +12,11 @@
     <a href="https://discord.gg/BjEJFwh"><strong>Get support »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/barbarbar338/readme-template/issues">Report Bug</a>
+    <a href="https://github.com/Hardikanand1st/Find-I.P-with-.bat-file/issues">Report Bug</a>
     ·
-    <a href="https://github.com/barbarbar338/readme-template/issues">Request Feature</a>
+    <a href="https://github.com/Hardikanand1st/Find-I.P-with-.bat-file/issues">Request Feature</a>
     ·
-    <a href="https://bariscodes.me/">Some link</a>
+    <a href="https://hardik.live/contact">Contact</a>
   </p>
 </p>
 
