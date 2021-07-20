@@ -22,27 +22,20 @@
   </p>
 </p>
 
-# ✨ README Template
-
-My awesome README starter template for my future projects
-
 # 📦 Installation
 
--   Using yarn: `yarn add <module>`
--   Using npm: `npm i <module>`
+-   This is a ready to use.bat script no installation needed
+-   To edit file: `Right click the downloaded .bat file and then click edit`
 
 # 🤓 Usage
 
 ```js
-import package from "<module>";
-package.do.something();
+Finds bluk i.p from cmd
 ```
 
-# 📄 License
+# 📄 License ⚖
 
-Copyright © 2021 [Barış DEMİRCİ](https://github.com/barbarbar338).
-
-Distributed under the [MIT](https://mit-license.org/) License. See `LICENSE` for more information.
+[GPL-2.0 License](https://github.com/Hardikanand1st/Find-I.P-with-.bat-file/blob/main/LICENSE)
 
 # 🧦 Contributing
 
@@ -59,11 +52,15 @@ Fell free to use GitHub's features.
 
 Give a ⭐️ if this project helped you!
 
+🖱 [Support](https://hardik.live/support)
+(by, clicking support button again and again)
+
+❤️ [Donate](https://hardik.live/support)
+
 # 📞 Contact
 
--   Mail: yourmail@yourmailservices.url
--   Discord: https://discord.gg/yourdiscord
--   Instagram: https://www.instagram.com/yourinstagram
--   Website: https://www.yourdomainname.url
--   Facebook: https://www.facebook.com/YourFacebook
--   Github: https://www.github.com/YourGithub
+-   Mail: contact@hardik.live
+-   Telegram:: https://t.me/hardikanand1st
+-   Instagram: https://www.instagram.com/hardikanand1st
+-   Website: https://hardik.live
+-   Github: https://github.com/Hardikanand1st
