@@ -61,7 +61,7 @@ Give a ⭐️ if this project helped you!
 # 📞 Contact
 
 -   Mail: contact@hardik.live
--   Discord: Hardik#0001
+-   Discord: ``` Hardik#0001 ```
 -   Instagram: https://www.instagram.com/hardikanand1st
 -   Website: https://hardik.live
 -   Github: https://github.com/Hardikanand1st
