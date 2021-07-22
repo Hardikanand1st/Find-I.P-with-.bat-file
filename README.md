@@ -1,6 +1,9 @@
 [![issues](https://img.shields.io/github/issues/barbarbar338/readme-template?color=red&logo=github&style=for-the-badge)](https://github.com/Hardikanand1st/Find-I.P-with-.bat-file/issues)
 
-[![Telegram](hardikanand1st.github.io/assets/telegram_logo_circle_icon_134012(1).png)](https://www.t.me/hardikanand1st)
+Discord Username
+```
+Hardik#0001
+```
 
 <p align="center">
   <img src="https://hardikanand1st.github.io/assets/ip%20image.png" alt="Logo" width="160" height="160" />
@@ -58,7 +61,7 @@ Give a ⭐️ if this project helped you!
 # 📞 Contact
 
 -   Mail: contact@hardik.live
--   Telegram:: https://t.me/hardikanand1st
+-   Discord: Hardik#0001
 -   Instagram: https://www.instagram.com/hardikanand1st
 -   Website: https://hardik.live
 -   Github: https://github.com/Hardikanand1st
